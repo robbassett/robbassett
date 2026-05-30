@@ -16,15 +16,13 @@
 
 ---
 
-### 📊 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=robbassett&show_icons=true&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=robbassett)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=robbassett&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🐱 Pet My Profile Cat
 Click the cat to give it a scratch! It has been patted this many times:
 
-[![Pet the Cat](https://profile-counter.glitch.me/YOUR-GITHUB-USERNAME/count.svg)](https://github.com/YOUR-GITHUB-USERNAME)
+[![Pet the Cat](https://profile-counter.glitch.me/robbassett/count.svg)](https://github.com/robbassett)
 
 <h3>📊 Code Quality Configuration</h3>
 <p>Adjust my programming standards using the slider below:</p>
