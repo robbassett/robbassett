@@ -3,7 +3,7 @@
 ### 🚀 About Me
 - 🔭 I’m currently working on **TAOIST_MC**
 - 🌱 I’m currently learning **Rust**
-- ⚡ Fun fact: **![Random Fact](https://uselessfacts.jsph.pl/api/v2/facts/random?language=en)**
+- ⚡ Fun fact: ![Typing Fact](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=3000&color=3776AB&width=600&lines=Wombat+poop+is+cube-shaped+to+prevent+it+rolling+away!;The+first+computer+bug+was+a+real+moth+trapped+in+a+relay!;JavaScript+was+originally+written+in+just+10+days!)
 
 ### 🛠️ My Tech Stack
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
