@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Rob! 👋
 
-<!--
-**robbassett/robbassett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🔭 I’m currently working on **TAOIST_MC**
+- 🌱 I’m currently learning **Rust**
+- ⚡ Fun fact: **wombat poop is cube-shaped**
 
-Here are some ideas to get you started:
+### 🛠️ My Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME-HERE&show_icons=true&theme=tokyonight)
